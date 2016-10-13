@@ -1,0 +1,56 @@
+
+**************** Customer Information ****************
+
+Customer ID: 1111
+First Name: joe
+Last Name: Smith
+Social Security: 
+Address : 111 jay street
+Date of Birth: 10/20/1975
+Age: 40
+Phone: 718-111-1111
+Email: joe@compl.com
+**************** Customer Information ****************
+
+Customer ID: 2222
+First Name: mary
+Last Name: snow
+Social Security: 
+Address : 222 jay street
+Date of Birth: 10/10/1970
+Age: 45
+Phone: 222-222-2222
+Email: mary@compl.com
+**************** Customer Information ****************
+
+Customer ID: 3333
+First Name: hossain
+Last Name: yahya
+Social Security: 
+Address : 200 jay street
+Date of Birth: 10/30/1987
+Age: 28
+Phone: 718-333-3333
+Email: hossain@gmail.com
+**************** Customer Information ****************
+
+Customer ID: 4444
+First Name: george
+Last Name: snow
+Social Security: 
+Address : 300 martyl ave
+Date of Birth: 10/20/1965
+Age: 50
+Phone: 444-444-4444
+Email: snow@compl.com
+**************** Customer Information ****************
+
+Customer ID: 4444
+First Name: george
+Last Name: snow
+Social Security: 
+Address : 300 martyl ave
+Date of Birth: 10/20/1965
+Age: 50
+Phone: 444-444-4444
+Email: snow@compl.com
